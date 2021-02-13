@@ -5,8 +5,6 @@
  */
 package test;
 
-import java.util.Scanner;
-
 /**
  *
  * @author i8az
@@ -22,10 +20,6 @@ public class Test {
         int a;
         System.out.println("test.Test.main()");
         int b;
-        int p;
-        Scanner s=new Scanner(System.in);
-        p=s.nextInt();
-        System.out.println(p);
         
     }
     
