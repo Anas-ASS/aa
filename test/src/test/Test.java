@@ -17,6 +17,10 @@ public class Test {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("print");
+        int a;
+        System.out.println("test.Test.main()");
+        int b;
+        
     }
     
 }
